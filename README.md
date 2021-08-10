@@ -1,1 +1,7 @@
-Has this arrived in the right place?
+# Calculator
+
+---
+
+An Apple inspired calculator made with HTML SCSS and Javascript
+
+---
